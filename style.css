@@ -299,6 +299,11 @@ section {
 .skill-card:nth-child(3) i { color: #f7df1e; }
 .skill-card:nth-child(4) i { color: #61dafb; }
 .skill-card:nth-child(5) i { color: #3776ab; }
+.skill-card:nth-child(6) i { color: #ffffff; }
+.skill-card:nth-child(7) i { color: #336791; }
+.skill-card:nth-child(8) i { color: #003b57; }
+.skill-card:nth-child(9) i { color: #f05032; }
+.skill-card:nth-child(10) i { color: #ffffff; }
 
 .skill-card h3 {
     font-size: 1.2rem;
